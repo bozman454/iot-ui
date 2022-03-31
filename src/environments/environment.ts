@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  //address of backend server
+  backendServer: "http://74.83.238.245",
+  backendPort: '5000'
 };
 
 /*
